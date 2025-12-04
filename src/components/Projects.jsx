@@ -21,7 +21,7 @@ const projects = [
     description: 'A working Web-site for keeping track of expenses',
     techStack: ['SQL','HTML+CSS+JS' ,'Firebase'],
     image: 'https://pix4free.org/assets/library/2021-10-24/originals/real-estate.jpg',
-    link: '#',
+    link: 'https://cloudbased-expense-tracker.vercel.app/',
   },
   {
     title: 'A Web Data Scrapper',
